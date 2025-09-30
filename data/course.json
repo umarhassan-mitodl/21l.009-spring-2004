@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Drama"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "7e4d8a3b-7f90-b406-1385-cfbe805f1ee9",
+  "instructors": {
+    "content": [
+      "4726f3b6-5bd5-5f81-098f-1766520978c4",
+      "6003de80-f764-319c-26ef-ba6b8af62da3",
+      "74516445-898e-1e75-b25c-4fabca94fe23"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "80562563-c07d-b019-5d67-984a88d7fc2d",
+    "website": "21l-009-shakespeare-spring-2004"
+  },
+  "course_title": "Shakespeare",
+  "hide_download": true,
+  "course_description": "Three hundred and eighty years after his death, William Shakespeare remains the central author of the English-speaking world; he is the most quoted poet and the most regularly produced playwright \u2014 and now among the most popular screenwriters as well. Why is that, and who \"is\" he?\u00a0Why do so many people think his writing is so great? What meanings did his plays have in his own time, and how do we read, speak, or listen to his words now? What should we watch for when viewing his plays in performance?\u00a0Whose plays are we watching, anyway? We'll consider these questions as we carefully examine a sampling of Shakespeare's plays from a variety of critical perspectives.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.009",
+  "course_image_thumbnail": {
+    "content": "3f1a6c01-1502-f7eb-b1df-51c5e27e90e5",
+    "website": "21l-009-shakespeare-spring-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Other Video",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "3e6527cd-bb74-4f04-8f6e-4f1f3b92290f",
+  "site_short_id": "21l.009-spring-2004",
+  "site_url_path": "courses/21l-009-shakespeare-spring-2004",
+  "title": "Course Metadata"
+}
