@@ -4,8 +4,6 @@ description: Sample student essay. Courtesy of Eleanor Crane. Used with permissi
 file: /courses/21l-009-shakespeare-spring-2004/113f50781be2c9415c3d1739eefd4477_henry_v_paper.pdf
 file_size: 492862
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

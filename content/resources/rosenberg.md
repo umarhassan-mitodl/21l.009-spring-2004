@@ -4,8 +4,6 @@ description: Sample student essay.
 file: /courses/21l-009-shakespeare-spring-2004/9b4dd35735ce3590d2c73bb79cb40561_rosenberg.pdf
 file_size: 33025
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -13,8 +13,6 @@ description: 'At the beginning of class #5, the instructor asked students to mak
 file: /courses/21l-009-shakespeare-spring-2004/3a1556e8fa6aa111b00c56fc6a6b10bc_class_5_comments.pdf
 file_size: 76309
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

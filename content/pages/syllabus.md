@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -125,7 +123,7 @@ You cannot participate well if you are asleep, nearly asleep, or woozy with illn
 
 Written work should be typed or word-processed (double-spaced, with standard margins and font sizes). I shall provide more specific instructions for each written assignment. I shall also provide a stylesheet including information about proper citation of sources; if you have any lingering doubts about the use of material beyond the text itself or about the definition of plagiarism, please speak with me **before** submitting your work. **Any act of plagiarism will be grounds for failure of this subject.** The following is the Literature Section's official policy statement:
 
-Plagiarism-use of another's intellectual work without acknowledgment-is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgment for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available at the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism-use of another's intellectual work without acknowledgment-is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgment for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution consult the style guides available at the {{% resource_link "809e35ef-30b4-481a-9df1-989060935d18" "MIT Web site on Plagiarism" %}}.
 
 In addition to welcoming your participation in class, I encourage you to discuss your ideas and your writing with me during office hours, or at other times convenient for us both. I hope to meet with each of you individually during the first half of the semester.
 

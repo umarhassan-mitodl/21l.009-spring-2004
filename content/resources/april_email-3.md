@@ -5,8 +5,6 @@ description: This email was sent to students during the term regarding the statu
 file: /courses/21l-009-shakespeare-spring-2004/635a646f2ef4ae89be3a6f8a566a18f2_april_email.pdf
 file_size: 41574
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
